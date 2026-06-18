@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Senna Automoveis</title>
 </head>
-<body style="background-color: rgb(46, 46, 46);">
-    <header style="background-color: rgb(187, 23, 23); padding: 20px;margin: 0;">
+<body style="background-color: rgb(46, 46, 46); margin: 0;">
+    <header style="background-color: rgb(187, 23, 23); padding: 50px;margin: 0;">
         <h1 style="color: white;text-align: center;">Senna Automoveis</h1>
         <h2 style="color: white;text-align: center;">A referencia em veiculos da região</h2>
     </header>
@@ -16,8 +16,17 @@
             <a style="text-decoration: none;margin: 5px;">AVALIÇÕES</a>
         </li>
         <section style="background-color: red;margin: 20px;border-radius: 20px;padding: 20px;">
-            <h1 style="color: white;">Sobre Senna Automoveis:</h1>
-            <p style="color: white;">Senna Automóveis é uma loja especializada na venda de veículos novos, oferecendo aos clientes modelos modernos, tecnológicos e com garantia de fábrica. Com atendimento de qualidade e compromisso com a satisfação do cliente, a empresa busca proporcionar uma experiência de compra segura,
+            <h1 style="color: white;font-family: sans-serif;">Sobre Senna Automoveis:</h1>
+            <p style="color: white;font-family: sans-serif;">Senna Automóveis é uma loja especializada na venda de veículos novos, oferecendo aos clientes modelos modernos, tecnológicos e com garantia de fábrica. Com atendimento de qualidade e compromisso com a satisfação do cliente, a empresa busca proporcionar uma experiência de compra segura,
                  transparente e eficiente. Na Senna Automóveis, você encontra as melhores opções do mercado, condições especiais de negociação e o suporte necessário para escolher o veículo ideal para o seu estilo de vida.</p>
+        </section>
+        <article style="background-color: rgb(255, 255, 255);margin: 20px;border-radius: 20px;padding: 20px;">
+            <h1 style="color: rgb(0, 0, 0); text-align: center;font-family: sans-serif;">Ferrari sf90</h1>
+                <img style="margin-left: 225px;border-radius: 10px;" src="ferrari sf90.jpg">
+                <h3 style="text-align: center;font-family: sans-serif;"><strong>R$ 5,490,000</strong></h3>
+            <h3 style="background-color: red;text-align: center;color: white;border-radius: 10px; margin-left: 700px;margin-right: 700px; padding: 10px; font-family: sans-serif;">Compre</h3>
+            <p style="color: rgb(0, 0, 0); text-align: center;font-family: sans-serif;">O Ferrari SF90 é um híbrido plug-in que combina desempenho e eficiência, oferecendo uma experiência de condução excepcional com tecnologia de ponta.</p>
+        </article>
+    </main>
 </body>
 </html>
